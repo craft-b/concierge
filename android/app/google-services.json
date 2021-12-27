@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410972468125",
+    "project_id": "concierge-71749",
+    "storage_bucket": "concierge-71749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410972468125:android:a707fa2960113366aa3574",
+        "android_client_info": {
+          "package_name": "com.example.concierge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410972468125-lefqfg3ddkalghbqs0bfe39k8dt5i3o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6I4wTyRsic6U7PIJ-HGZuVllVuNRW3VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410972468125-lefqfg3ddkalghbqs0bfe39k8dt5i3o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
